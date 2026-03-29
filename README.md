@@ -12,3 +12,5 @@
 
 * 'Tensora Mono N' - identical to the above, but has a small caps 'N'
   ![image-20240114201028168](assets/image-20240114201028168.png)
+
+<img width="629" height="720" alt="image_720" src="https://github.com/user-attachments/assets/721a9b84-d67b-4f0a-843e-d1b094154fe3" />
